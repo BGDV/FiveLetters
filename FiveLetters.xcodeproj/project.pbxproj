@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4741E90F290552A400D9DC0F /* words.txt in Resources */ = {isa = PBXBuildFile; fileRef = 474F90F629053123001830D1 /* words.txt */; };
 		474F90E72905301A001830D1 /* FiveLettersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 474F90E62905301A001830D1 /* FiveLettersApp.swift */; };
 		474F90E92905301A001830D1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 474F90E82905301A001830D1 /* ContentView.swift */; };
 		474F90EB2905301B001830D1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 474F90EA2905301B001830D1 /* Assets.xcassets */; };
@@ -133,7 +132,6 @@
 			files = (
 				474F90EE2905301B001830D1 /* Preview Assets.xcassets in Resources */,
 				474F90F52905311F001830D1 /* words.txt in Resources */,
-				4741E90F290552A400D9DC0F /* words.txt in Resources */,
 				474F90EB2905301B001830D1 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
